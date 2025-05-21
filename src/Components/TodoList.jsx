@@ -20,7 +20,7 @@ const TodoList = () => {
       },
     ]);
     setTask("");
-    alert("Task Added Successfully");
+    alert("Task Added ");
   }
 
   function Remove(id) {
